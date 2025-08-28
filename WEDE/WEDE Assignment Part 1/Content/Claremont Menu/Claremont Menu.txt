@@ -1,0 +1,148 @@
+# CLAREMONT MENU
+## Starter and Tandoor
+-Samoosas (3 Pieces) VEG: Peas & Potato/Cheese & Corn/NON-VEG: Chicken Or Mince ..........R54.00
+-Onion Bhaji ..........R55.00
+-Non veg Soup ..........R62.00
+-Chilli Bites ..........R55.00
+-Paneer Pakora (veg) ..........R90.00
+-Tandoori Mushroom (veg) ..........R85.00
+-Sabzi Bhara Kabab (veg) ..........R85.00
+-Paneer Tikka (veg) ..........R95.00
+-Papdi Chaat (veg) ..........R75.00
+-Dahi Sev Puri (veg) ..........R80.00
+-Pani Puri (8 pieces) ..........R80.00
+-Vegetable Platter (veg) ..........R145.00
+-Chicken Tikka ..........R90.00
+-Chicken Garlic Kebaab ..........R90.00
+-Mixed Kebaab Platter ..........R170.00
+-Malai Tikka ..........R90.00
+-Tangdi Kabab(4 pieces) ..........R105.00
+-Tandoori Chicken (full) ..........R149.00
+-Lamb Sheekh Kebaab ..........R100.00
+-Lamb Boti Kebaa ..........R170.00
+-Lamb Chops (4 pieces) ..........R209.00
+-Fish Tikka ..........R105.00
+-Chicken Wings (8 pieces) ..........R95.00
+-Prawn Koliwada ..........R120.00
+-Chicken Chill ..........R105.00
+-Paneer Chill ..........R100.00
+-Mushroom Manchurian (Veg) ..........R95.00
+-Veg Manchurian (Veg) ..........R95.00
+
+# Curries - Vegetable Delights (All Curries Can Be Made In: Mild / Medium / Hot / Extra Hot)10.00
+-Vegetable Makhani ..........R105.00
+-Aloo Gobi ..........R100.00
+-Aloo Jeera ..........R95.00
+-Bombay Aloo ..........R98.00
+-Channa Pindi ..........R95.00
+-Navratan Korma (No Chilli) ..........R109.00
+-Veg Kadai ..........R105.00
+-Veg Jalfrezie ..........R105.00
+-Veg Jaipuri ..........R105.00
+-Aloo Mutter ..........R100.00
+-Paneer Lababdar ..........R125.00
+-Paneer Korma (No Chilli) ..........R125.00
+-Paneer Makhani ..........R125.00
+-Paneer Tikka Masala ..........R125.00
+-Paneer Mushroom ..........R125.00
+-Paneer Palak ..........R125.00
+-Paneer Kadhai ..........R125.00
+-Dahi Pakodi Kadhi ..........R95.00
+-Dal Makhani ..........R105.00
+-Dal Tadka ..........R95.00
+-Dhal Chef ..........R100.00
+-Mushroom Kadhai ..........R105.00
+-Mushroom and Corn Curry ..........R105.00
+
+# Curries - Chicken Delights10.00
+-Chicken Makhani (Butter Chicken) ..........R149.00
+-Chicken Tikka Masala ..........R149.00
+-Chicken Korma (No Chilli) ..........R149.00
+-Chicken Saagwala ..........R149.00
+-Chicken Chettinad (Tamil Nadu Speciality) ..........R149.00
+-Chicken Bhuna ..........R149.00
+-Chicken Kadhai ..........R149.00
+-Chicken Jalfrezy ..........R149.00
+-Chicken Pepper Fry ..........R149.00
+-Chicken Vindaloo ..........R149.00
+-Chicken Madras ..........R149.00
+-Chicken Lababdar ..........R149.00
+
+# Curries - Lamb Delights10.00
+-Lamb Rogan Josh ..........R179.00
+-Lamb Vindaloo ..........R179.00
+-Lamb Korma (No Chilli) ..........R179.00
+-Lamb do Piazza ..........R179.00
+-Lamb Bhuna ..........R179.00
+-Lamb Saagwala ..........R179.00
+-Dhal Gosh ..........R179.00
+-Lamb Pepper Fry ..........R179.00
+-Lamb Lababdar ..........R179.00
+-Lamb Madras ..........R179.00
+-Lambs Chops Masala Curry ..........R209.00
+-Lamb Boti Masala ..........R205.00
+
+# Curries - (seafood specialities)10.00
+-Fish Malabar Curry ..........R169.00
+-Kadhai Fish ..........R169.00
+-Fish Chettinad (Tamil Nadu Speciality) ..........R169.00
+-Madras Prawns ..........R195.00
+-Kadhai Prawns ..........R195.00
+-Prawns Chettinad (Tamil Nadu Speciality) ..........R195.00
+-Prawns Pepper Fry ..........R195.00
+
+# rice dishes10.00
+-Plain Steamed Rice ..........R50.00
+-Pulao Rice ..........R62.00
+-Mushroom Pulao ..........R62.00
+-Jeera Rice ..........R59.00
+-Veg Biryani ..........R102.00
+-Chicken Biryani ..........R120.00
+-Lamb Biryani ..........R179.00
+-Prawn Biryani ..........R195.00
+
+# roti - naan10.00
+-Naan ..........R25.00
+-Garlic Naan ..........R32.00
+-Tandoori Roti ..........R35.00
+-Butter Naan ..........R30.00
+-Tandoori Paratha ..........R40.00
+-Lacha Paratha ..........R40.00
+-Stuffed Parathas ..........R55.00
+-Pudina Paratha ..........R45.00
+-Peshwari Naan ..........R55.00
+-Cheese Garlic Naan ..........R55.00
+
+# children's corner10.00
+-Kids Chicken Kebab and Chips ..........R90.00
+-Kids Calamari and Chips ..........R90.00
+-Kids Chicken Nuggets and Chips ..........R90.00
+-Kids Fish and Chips ..........R95.00
+
+# side dishes10.00
+-Papad (4 pieces) ..........R35.00
+-Pickles ..........R35.00
+-Sambals ..........R35.00
+-Plain Yoghurt ..........R35.00
+-Raita ..........R40.00
+-Green Salad ..........R45.00
+-Onion Salad ..........R35.00
+
+# desserts10.00
+-Ice Cream and Chocolate Sauce ..........R50.00
+-Bombay Crush ..........R50.00
+-Phirni (Kheer) ..........R50.00
+-Halwa (Soji) ..........R50.00
+-Kulfi ..........R50.00
+-Gulab Jamun (2 Pieces) ..........R50.00
+
+# beverages10.00
+-Coffee ..........R35.00
+-Tea ..........R30.00
+-Masala Tea ..........R35.00
+-Sweet Lassi ..........R45.00
+-Salted Lassi ..........R45.00
+-Mango Lassi ..........R45.00
+-Chass ..........R30.00
+-Milk Shakes ..........R45.00
+-Chocolate, Strawberry, Vanilla, Lime
